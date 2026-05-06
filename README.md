@@ -68,6 +68,10 @@ Recentemente, o frontend recebeu melhorias críticas de robustez:
     npm run dev
     ```
 
-## 📄 Licença
+---
 
-Este projeto é de uso privado para a plataforma Stratega.
+## 👨‍💻 Autor
+
+Feito com dedicação arquitetural por **Maxsuel Einstein** - Engenheiro de Software.  
+Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/maxsueleinstein/) | [GitHub](https://github.com/maxeinstein-dev)
+
